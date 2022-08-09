@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joooeey ⛷️
-- 👀 I’m interested in geodata engineering. 🛰️🌍
-- 🌱 I’m currently learning machine-learning. 📉
-- 💞️ I’m looking to collaborate on Earth surface change monitoring. 🛰️🌍
+- 👀 I’m a geodata engineer. 🛰️🌍
+- 🌱 I’m currently learning C. 🖥️
+- 💞️ I’m looking for a cummunity of environmental stewards. 🌳🧑‍🤝‍🧑
 - 🏅 I'm most proud of my Satellite Image Step & Trend ExploreR. You can find it here: https://lschreiber.users.earthengine.app/view/sister
 - 📫 How to reach me: l.schreiber@alumni.ubc.ca
 
